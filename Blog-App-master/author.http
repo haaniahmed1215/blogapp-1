@@ -7,9 +7,9 @@ Content-Type: application/json
 
 {
     "userType":"author",
-    "username":"Hussain",
-    "email":"hussain@gmail.com",
-    "password":"Hussain"
+    "username":"pookie",
+    "email":"pookie@gmail.com",
+    "password":"pooks"
 }
 
 
@@ -20,8 +20,8 @@ Content-Type: application/json
 
 {
     "userType":"author",
-    "username":"Hussain",
-    "password":"Hussain"
+    "username":"pookie",
+    "password":"pooks"
 }
 
 
